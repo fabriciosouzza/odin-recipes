@@ -1,0 +1,70 @@
+body{
+    background-color: #4efa2370;
+}
+h1{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+a:hover{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #0000002c;
+}
+.foto-main{
+    width: 350px;
+    height: 300px;
+}
+
+.mainli{
+    display: inline-block;
+    width: 400px;
+    text-align: center;
+    align-items: center;
+}
+
+.primeira{
+    left: 250px;
+    top: 100px;
+    position: absolute;
+}
+
+.segunda{
+    left: 660px;
+    top: 100px;
+    position: absolute;
+}
+.terceira{
+    left: 250px;
+    top: 450px;
+    position: absolute;
+}
+
+.quarta{
+    left: 660px;
+    top: 450px;
+    position: absolute;
+}
+
+.imgr{
+    left: 120px;
+    width: 80%;
+    height: 400px;
+    position: relative;
+}
+
+.primeira:hover{
+    width: 370px;
+    height: 320px;
+}
+.segunda:hover{
+    width: 370px;
+    height: 320px;
+}
+.terceira:hover{
+    width: 370px;
+    height: 320px;
+}
+.quarta:hover{
+    width: 350px;
+    height: 300px;
+}
